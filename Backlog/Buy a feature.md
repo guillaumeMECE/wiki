@@ -60,4 +60,4 @@ Lorsque les achats sont terminés vous pouvez refaire un tour de table pour prop
 
 ---
 
-Made by Guillaume with ❤.
+**Made by Guillaume with ❤.**
