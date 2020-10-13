@@ -33,7 +33,7 @@ A la fin de la minute, ils échangent tous leur feuille avec leur voisins de dro
 
 ### 3. Récapitulatif _(5 min)_
 
-Une fois les 8 cases de chaque feuille complété, il est temps de mettre en commun toute les idées. Ecrivez sur un post-it toute les idées qui sont sortie du crazy 8 et collé les sur une matrice [impact effort](./impact_effort.md)
+Une fois les 8 cases de chaque feuille complété, il est temps de mettre en commun toute les idées. Ecrivez sur un post-it toute les idées qui sont sortie du crazy 8 et collé les sur une matrice [impact effort](./impact-effort.md)
 
 ---
 

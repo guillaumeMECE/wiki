@@ -14,7 +14,7 @@ Elle va permettre de vous mettre d‘accord sur des sujets et mettre en exergue 
 
 ## Example de présentation 🏃‍
 
-![Matrice impact effort](../assets/impact_effort.jpg)
+![Matrice impact effort](../assets/impact-effort.jpg)
 
 ---
 
