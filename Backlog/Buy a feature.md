@@ -1,8 +1,10 @@
-# Buy a feature
+# Buy a feature 💶
 
 **Buy a feature** est un innovation game sous forme d’atelier qui permet à ses participants de disposer d’un montant d’argent limité afin d’acheter une fonctionnalité.
 
-## Préparation
+---
+
+## Préparation 📄
 
 ### 1. L’ensemble des fonctionnalités que vous souhaitez soumettre dans votre `backlog` doit être estimé
 
@@ -32,7 +34,7 @@ Si vos contraintes sont différentes, le choix est ici assez libre, cela pourra 
 
 ---
 
-## Déroulé de l'atelier
+## Déroulé de l'atelier 🎢
 
 ### 1. Introduction _(20/30 min)_
 
@@ -48,7 +50,7 @@ Lorsque les achats sont terminés vous pouvez refaire un tour de table pour prop
 
 ---
 
-## Example de présentation
+## Example de présentation 🏃‍
 
 | Feature                    | Prix | Participant 1 | Participant 2 | Participant x |
 | -------------------------- | ---- | ------------- | ------------- | ------------- |
