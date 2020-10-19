@@ -18,7 +18,7 @@
 
 # Agile 🤸‍♀️
 
-- [Scrum](./Agile/Scrum/readme.md)
+- [Scrum (for Morice)](./Agile/Scrum/readme.md)
 
 ---
 
