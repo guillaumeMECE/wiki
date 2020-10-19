@@ -1,6 +1,6 @@
 # Wiki (Guillaume Maurin) 📚
 
-## Sommaire 📄
+# Sommaire 📄
 
 1. [Design Thinking](#design-thinking)
 2. [Project Management](#project-management)
