@@ -8,8 +8,8 @@
 
 # Design Thinking 🧠
 
-- [Crazy 8](./Design-Thinking/crazy-8.md)
-- [Matrice Impact/Effort](./design-thinking/impact-effort.md)
+- [Crazy 8](./Design-Thinking/Crazy-8.md)
+- [Matrice Impact/Effort](./Design-thinking/impact-effort.md)
 
 # Project Management 🤵
 
