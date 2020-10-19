@@ -27,7 +27,7 @@ Scrum is:
 
 ---
 
-## Events
+## Events 💥
 
 ### Sprint
 

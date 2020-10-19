@@ -1,19 +1,24 @@
-# wiki (Guillaume Maurin)
+# Wiki (Guillaume Maurin) 📚
 
-## Sommaire
+## Sommaire 📄
 
 1. [Design Thinking](#design-thinking)
 2. [Project Management](#project-management)
+3. [Agile](#agile)
 
-# Design Thinking
+# Design Thinking 🧠
 
 - [Crazy 8](./design-thinking/crazy-8.md)
 - [Matrice Impact/Effort](./design-thinking/impact-effort.md)
 
-# Project Management
+# Project Management 🤵
 
 - [Buy a Feature](./project-management/buy-a-feature.md)
 - [MoSCoW](./project-management/moscow.md)
+
+# Agile 🤸‍♀️
+
+- [Scrum](./agile/scrum/readme.md)
 
 ---
 
