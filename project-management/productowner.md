@@ -29,7 +29,9 @@ One of the most important responsibilities for a scrum product owner is managing
 > >
 > > **Low-priority items** should not be a dependency and can be safely ignored until they are candidates for refinement.
 >
-> > **Impact Effort** > > ![impact effort](../assets/impact-effort.jpg)
+> > **Impact Effort**
+> >
+> > ![impact effort](../assets/impact-effort.jpg)
 >
 > > **RICE Method :**
 > >
