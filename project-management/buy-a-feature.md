@@ -59,5 +59,6 @@ Lorsque les achats sont terminés vous pouvez refaire un tour de table pour prop
 | Virement entre utilisateur | 50€  | 10€           | -             | -             |
 
 ---
+merci à https://blog.thiga.co/kit-buy-a-feature-pret-a-imprimer/.
 
 **Made by Guillaume with ❤.**
